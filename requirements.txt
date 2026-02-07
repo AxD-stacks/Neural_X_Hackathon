@@ -1,5 +1,4 @@
 Flask==3.0.0
-Gemini3==0.6.2
 anthropic==0.18.1
 PyPDF2==3.0.1
 python-docx==1.1.0
